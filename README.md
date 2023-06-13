@@ -40,3 +40,6 @@
 - Email: 
 - LinkedIn: https://www.linkedin.com/in/username/
 - Личный сайт: https://www.username.com
+
+  Контактная информация
+Электронная почта: name@email.com
